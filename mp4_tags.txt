@@ -1,0 +1,138 @@
+com.apple.iTunes = Acoustid Fingerprint
+com.apple.iTunes = AcoustId Fingerprint
+com.apple.iTunes = Acoustid Id
+©alb
+aART
+soaa
+soal
+soar
+©ART
+covr
+com.apple.iTunes = ASIN
+tmpo
+catg
+com.apple.iTunes = iTunes_CDDB_1
+com.apple.iTunes = iTunes_CDDB_IDs
+com.apple.iTunes = iTunes_CDDB_TrackNumber
+©cmt
+cpil
+©wrt
+soco
+cprt
+com.apple.iTunes = Country
+©day
+desc
+disk
+com.apple.iTunes = DISCSUBTITLE
+©too
+com.apple.iTunes = fBPM
+gnre
+©gen
+©grp
+com.apple.iTunes = iTunNORM
+com.apple.iTunes = iTunSMPB
+com.apple.iTunes = KEY
+keyw
+com.apple.iTunes = LANGUAGE
+©lyr
+com.apple.iTunes = MusicBrainz Album Artist Id
+com.apple.iTunes = MusicBrainz Album Id
+com.apple.iTunes = MusicBrainz Album Status
+com.apple.iTunes = MusicBrainz Album Type
+com.apple.iTunes = MusicBrainz Artist Id
+com.apple.iTunes = MusicBrainz Disc Id
+com.apple.iTunes = MusicBrainz Original Album Id
+com.apple.iTunes = MusicBrainz Release Group Id
+com.apple.iTunes = MusicBrainz Track Id
+com.apple.iTunes = MusicBrainz Work Id
+com.apple.iTunes = MusicIP PUID
+pgap
+purd
+rtng
+com.apple.iTunes = MusicBrainz Album Release Country
+tvsh
+sosn
+com.apple.iTunes = SUBTITLE
+©nam
+sonm
+trkn
+stik
+tool
+keyw
+purl
+egid
+tvnn
+tven
+tvsn
+tves
+apID
+atID
+cnID
+plID
+geID
+sfID
+akID
+lyrc
+cond
+isrc
+mood
+rate
+oart
+otit
+olyr
+peop
+empo
+occa
+qual
+cus1
+cus2
+cus3
+cus4
+cus5
+com.apple.iTunes = ORGANIZATION
+com.apple.iTunes = ORIGINAL ARTIST
+com.apple.iTunes = ORIGINAL ALBUM
+com.apple.iTunes = ORIGINAL LYRICIST
+com.apple.iTunes = INVOLVED PEOPLE
+com.apple.iTunes = ORIGINAL YEAR
+com.apple.iTunes = TEMPO
+com.apple.iTunes = OCCASION
+com.apple.iTunes = QUALITY
+com.apple.iTunes = CUSTOM1
+com.apple.iTunes = CUSTOM2
+com.apple.iTunes = CUSTOM3
+com.apple.iTunes = CUSTOM4
+com.apple.iTunes = CUSTOM5
+com.apple.iTunes = LYRICIST
+com.apple.iTunes = CONDUCTOR
+com.apple.iTunes = REMIXER
+com.apple.iTunes = ENGINEER
+com.apple.iTunes = PRODUCER
+com.apple.iTunes = DJMIXER
+com.apple.iTunes = MIXER
+com.apple.iTunes = ARRANGER
+com.apple.iTunes = MOOD
+com.apple.iTunes = ISRC
+com.apple.iTunes = MEDIA
+com.apple.iTunes = LABEL
+com.apple.iTunes = CATALOGNUMBER
+com.apple.iTunes = BARCODE
+com.apple.iTunes = URL_LYRICS_SITE
+com.apple.iTunes = URL_OFFICIAL_RELEASE_SITE
+com.apple.iTunes = URL_DISCOGS_RELEASE_SITE
+com.apple.iTunes = URL_WIKIPEDIA_RELEASE_SITE
+com.apple.iTunes = URL_OFFICIAL_ARTIST_SITE
+com.apple.iTunes = URL_DISCOGS_ARTIST_SITE
+com.apple.iTunes = URL_WIKIPEDIA_ARTIST_SITE
+com.apple.iTunes = SCRIPT
+com.apple.iTunes = TAGS
+com.apple.iTunes = ARTISTS
+com.nullsoft.winamp = publisher
+keys
+
+## NONSTANDARD
+AApr
+Alfn
+AMIM
+Adcp
+Apty

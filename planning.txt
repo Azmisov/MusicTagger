@@ -1,0 +1,54 @@
+Here is how we want the tag library to function.
+We should never have to know how each file format is implemented.
+
+//the music file and all methods for editing it
+class MusicFile{
+	FileFormat format;
+	File f;
+
+	//returns a list of the tag names
+	List getTags();
+	//returns a list of values
+	List getValues(MusicTag tag);
+	//gets the index of the entry whith tagname tag and value val
+	int getIndex(MusicTag tag, String val);
+	
+	//deletes an entire tag
+	bool delete(MusicTag tag);
+	//deletes an entry in the tag list
+	bool delete(MusicTag tag, String val);
+	bool delete(MusicTag tag, int index);
+	
+	//edit tag & sets first field to val
+	bool edit(MusicTag tag, String val);
+	//edit tag & sets field at index to val
+	bool edit(MusicTag tag, int index, String val);
+	
+	//Adds a new tag
+	bool add(MusicTag tag, String val);
+}
+
+class MusicTag{
+	//static factory method
+	//tries to parse the tag to a valid supportedTag format
+	create(String tag, FileFormat f);
+
+	//gets the vendor tag name
+	getVendor()
+	//gets the generic tag name
+	getGeneric()
+	
+	isCommon()
+	supportsMultiple();
+	
+	//converts the tagname to a different format
+	MusicTag convertTo(FileFormat f);
+}
+
+//defines all the tags a file format supports
+class FileFormat{
+	//supportsMultiple = all tags can have multiple values
+	bool supportsCustom, supportsMultiple;
+	//multipleTags = tags that support multiple values
+	Set commonTags, supportedTags, multipleTags;
+}
